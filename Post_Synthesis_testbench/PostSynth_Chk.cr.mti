@@ -1,0 +1,46 @@
+/filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/Segway.vg {1 {vlog -work work -vopt -stats=none /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/Segway.vg
+QuestaSim vlog 2024.3_2 Compiler 2024.11 Nov 25 2024
+-- Compiling module Segway
+
+Top level modules:
+	Segway
+
+} {} {}} /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/SPI_ADC128S.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/SPI_ADC128S.sv
+QuestaSim vlog 2024.3_2 Compiler 2024.11 Nov 25 2024
+-- Compiling module SPI_ADC128S
+
+Top level modules:
+	SPI_ADC128S
+
+} {} {}} /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/SegwayModel.sv {2 {vlog -work work -vopt -sv -stats=none /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/SegwayModel.sv
+QuestaSim vlog 2024.3_2 Compiler 2024.11 Nov 25 2024
+-- Compiling module SegwayModel
+** Warning: /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/SegwayModel.sv(143): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/SegwayModel.sv(256): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/SegwayModel.sv(258): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	SegwayModel
+
+} {} {}} /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/rst_synch.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/rst_synch.sv
+QuestaSim vlog 2024.3_2 Compiler 2024.11 Nov 25 2024
+-- Compiling module rst_synch
+
+Top level modules:
+	rst_synch
+
+} {} {}} /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/ADC128S_FC.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/ADC128S_FC.sv
+QuestaSim vlog 2024.3_2 Compiler 2024.11 Nov 25 2024
+-- Compiling module ADC128S_FC
+
+Top level modules:
+	ADC128S_FC
+
+} {} {}} /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/UART_tx.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/k/kannakaranko/ece551/Final_Segway_Project_Dec9/Post_Synthesis_testbench/UART_tx.sv
+QuestaSim vlog 2024.3_2 Compiler 2024.11 Nov 25 2024
+-- Compiling module UART_tx
+
+Top level modules:
+	UART_tx
+
+} {} {}}

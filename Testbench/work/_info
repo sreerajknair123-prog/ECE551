@@ -1,0 +1,692 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+!s11f vlog 2024.3_2 2024.11, Nov 25 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/filespace/k/kannakaranko/ece551/Dec10_Fnal_Segway_Project_copy/Post_Synthesis_testbench
+T_opt
+!s110 1765412694
+Vn@i^F0jSb<iOU3DS8Ibm@2
+04 9 4 work Segway_tb fast 0
+=1-000ae431a4f1-693a0f56-26a25-2d6ad1
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OE;O;2024.3_2;79
+vA2D_intf
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/A2D_Intf.sv
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 !s110 1765412667
+!i10b 1
+!s100 P<[[^^cOO]6_?iCcjJPCg1
+I1Nzg^73`fcf^I5FnUW<Y10
+S1
+Z5 d/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench
+w1765345363
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/A2D_Intf.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/A2D_Intf.sv
+!i122 23
+L0 1 155
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OE;L;2024.3_2;79
+r1
+!s85 0
+31
+!s108 1765412666.000000
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/A2D_Intf.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/A2D_Intf.sv|
+!i113 0
+Z8 !s102 -cover sbceft3
+Z9 o-work work -sv -cover sbceft3 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@a2@d_intf
+vADC128S_FC
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/ADC128S_FC.sv
+R3
+Z10 !s110 1765412668
+!i10b 1
+!s100 n1UPndo6Ol_azTTf4hd=N2
+IR`<YCVK5SjT]_Kk4XYzB42
+S1
+R5
+w1763182444
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/ADC128S_FC.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/ADC128S_FC.sv
+!i122 42
+L0 1 114
+R6
+R7
+r1
+!s85 0
+31
+Z11 !s108 1765412667.000000
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/ADC128S_FC.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/ADC128S_FC.sv|
+!i113 0
+R8
+R9
+R2
+n@a@d@c128@s_@f@c
+vAuth_blk
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/Auth_blk.sv
+R3
+R4
+!i10b 1
+!s100 zIlIn3?8V_nncTadk]=G50
+ISXf5AJcLkj66eYS]dgRb]1
+S1
+R5
+w1765349282
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/Auth_blk.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/Auth_blk.sv
+!i122 24
+L0 7 73
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/Auth_blk.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/Auth_blk.sv|
+!i113 0
+R8
+R9
+R2
+n@auth_blk
+vbalance_cntrl
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/balance_cntrl.sv
+R3
+R4
+!i10b 1
+!s100 K^EUJ2bWSIh`_KFjn7mRQ3
+I;7[0JSKEWGnThX2`R6_T[3
+S1
+R5
+w1765223040
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/balance_cntrl.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/balance_cntrl.sv
+!i122 25
+L0 5 41
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/balance_cntrl.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbcef3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/balance_cntrl.sv|
+!i113 0
+!s102 -cover sbcef3
+o-work work -sv -cover sbcef3 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcounter
+Z12 2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PWM11.sv
+R3
+R4
+!i10b 1
+!s100 98oS[W<AAF^C@PoCaYR?63
+I8Un>Sl`MKEXEo5cg[J?<=0
+S1
+R5
+Z13 w1760051332
+Z14 8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PWM11.sv
+Z15 F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PWM11.sv
+!i122 32
+L0 32 11
+R6
+R7
+r1
+!s85 0
+31
+R11
+Z16 !s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PWM11.sv|
+Z17 !s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PWM11.sv|
+!i113 0
+R8
+R9
+R2
+vinert_intf
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/inert_intf.sv
+R3
+R4
+!i10b 1
+!s100 m[dMiK:fNa8D]_2aEi5Il3
+IobGWkaOQLdI6WKPHm1:fN1
+S1
+R5
+w1765223043
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/inert_intf.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/inert_intf.sv
+!i122 26
+L0 1 215
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/inert_intf.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/inert_intf.sv|
+!i113 0
+R8
+R9
+R2
+vinertial_integrator
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/inertial_integrator.sv
+R3
+R4
+!i10b 1
+!s100 M^:m9jWN:XT^eZTG^Be;L3
+IN45m89:7kMVD0>EJ`31ak1
+S1
+R5
+w1765223046
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/inertial_integrator.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/inertial_integrator.sv
+!i122 27
+L0 7 41
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/inertial_integrator.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/inertial_integrator.sv|
+!i113 0
+R8
+R9
+R2
+vmtr_drv
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/mtr_drv.sv
+R3
+R4
+!i10b 1
+!s100 N1Lk0cOUQ7=[[Eh:[DQ8N3
+Ic[kNBg?7[P[_SI<3l^Q]D2
+S1
+R5
+w1765059833
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/mtr_drv.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/mtr_drv.sv
+!i122 28
+L0 1 139
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/mtr_drv.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/mtr_drv.sv|
+!i113 0
+R8
+R9
+R2
+vPB_release
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PB_release.sv
+R3
+R4
+!i10b 1
+!s100 2`WbDT>Va7:b4H8`=0XW03
+IN`_D>MTzmdJbN0ZYo8U6G2
+S1
+R5
+w1764540413
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PB_release.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PB_release.sv
+!i122 29
+L0 4 14
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PB_release.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PB_release.sv|
+!i113 0
+R8
+R9
+R2
+n@p@b_release
+vPID
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PID.sv
+R3
+R4
+!i10b 1
+!s100 zXToSkW`gcgO143`C9BRX0
+IXKcOO<N?m?fj658O>CIn[0
+S1
+R5
+w1765223052
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PID.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PID.sv
+!i122 30
+L0 5 114
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PID.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/PID.sv|
+!i113 0
+R8
+R9
+R2
+n@p@i@d
+vpiezo_drv
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/piezo_drv.sv
+R3
+R4
+!i10b 1
+!s100 ^]YTGRRflH=BdBc336z0l0
+IT:D?mUIVlP:96EKD:ki=h1
+S1
+R5
+w1765344091
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/piezo_drv.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/piezo_drv.sv
+!i122 31
+L0 1 290
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/piezo_drv.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/piezo_drv.sv|
+!i113 0
+R8
+R9
+R2
+vPWM11
+R12
+R3
+R4
+!i10b 1
+!s100 a3UXI5?VhH4<ekQUdAW@61
+IUFT1lel[aA^3odD4FB8MY1
+S1
+R5
+R13
+R14
+R15
+!i122 32
+L0 4 25
+R6
+R7
+r1
+!s85 0
+31
+R11
+R16
+R17
+!i113 0
+R8
+R9
+R2
+n@p@w@m11
+vrst_synch
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/rst_synch.sv
+R3
+R4
+!i10b 1
+!s100 J_9_S6b<R6MOmkBnHTQZN0
+I^l[8lTCTb724XmZgF777U0
+S1
+R5
+w1764631234
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/rst_synch.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/rst_synch.sv
+!i122 33
+L0 5 21
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/rst_synch.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/rst_synch.sv|
+!i113 0
+R8
+R9
+R2
+vSegway
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/Segway.sv
+R3
+R4
+!i10b 1
+!s100 6RN;oJl>bhFJQ>^RnTk`O0
+IN;UWG<Fn?^2NgU?oBiS[92
+S1
+R5
+w1765345497
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/Segway.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/Segway.sv
+!i122 34
+L0 1 106
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/Segway.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/Segway.sv|
+!i113 0
+R8
+R9
+R2
+n@segway
+vSegway_tb
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench/overCurrent_test.sv
+R3
+R4
+!i10b 1
+!s100 bE1Zz052eBMY3eIj?BG3k0
+ID6zB1LAR1WBlW4S;ZOImC1
+S1
+R5
+w1765411233
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench/overCurrent_test.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench/overCurrent_test.sv
+!i122 41
+L0 6 393
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench/overCurrent_test.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench/overCurrent_test.sv|
+!i113 0
+Z18 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@segway_tb
+vSegwayMath
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/SegwayMath.sv
+R3
+R4
+!i10b 1
+!s100 Loab2YSO[922K=>h6eShQ1
+Ijd57b_3:8L2FjnHK`8_P:1
+S1
+R5
+w1765220562
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/SegwayMath.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/SegwayMath.sv
+!i122 35
+L0 2 109
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/SegwayMath.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/SegwayMath.sv|
+!i113 0
+R8
+R9
+R2
+n@segway@math
+vSegwayModel
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/SegwayModel.sv
+R3
+R10
+!i10b 1
+!s100 iz^E?Y=h=5@SlL;FS;BlO2
+IeT3XQh[>Ff6JS6o^4BaP_2
+S1
+R5
+w1763491886
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/SegwayModel.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/SegwayModel.sv
+!i122 43
+L0 1 454
+R6
+R7
+r1
+!s85 0
+31
+Z19 !s108 1765412668.000000
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/SegwayModel.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/SegwayModel.sv|
+!i113 0
+R8
+R9
+R2
+n@segway@model
+vSPI_ADC128S
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/SPI_ADC128S.sv
+R3
+R10
+!i10b 1
+!s100 93oj0i;UV@::cHMPGHMJ>1
+I8lcHUMEc[7fZ;=;`jT9KM0
+S1
+R5
+w1442691962
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/SPI_ADC128S.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/SPI_ADC128S.sv
+!i122 44
+L0 1 140
+R6
+R7
+r1
+!s85 0
+31
+R19
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/SPI_ADC128S.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/ProvidedFiles/SPI_ADC128S.sv|
+!i113 0
+R8
+R9
+R2
+n@s@p@i_@a@d@c128@s
+vSPI_mnrch
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/SPI_mnrch.sv
+R3
+R4
+!i10b 1
+!s100 S6Iceo3OWP32P2_YmC5I31
+IQ90>cFZIQ<^6Vi`Yz<dNe0
+S1
+R5
+w1764000180
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/SPI_mnrch.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/SPI_mnrch.sv
+!i122 36
+L0 5 167
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/SPI_mnrch.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/SPI_mnrch.sv|
+!i113 0
+R8
+R9
+R2
+n@s@p@i_mnrch
+vsr_ff_async
+R12
+R3
+R4
+!i10b 1
+!s100 OSDOBa`ZHZ>Vbcfe?A>;10
+I<?PSjQ2VPed>FobJ6BE_l1
+S1
+R5
+R13
+R14
+R15
+!i122 32
+L0 46 20
+R6
+R7
+r1
+!s85 0
+31
+R11
+R16
+R17
+!i113 0
+R8
+R9
+R2
+vsteer_en
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/steer_en.sv
+R3
+R4
+!i10b 1
+!s100 XGcoViI_OEObmi6Ko_F_21
+Ifzf:d@[nkIABn38?Rz5JS2
+S1
+R5
+w1765222287
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/steer_en.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/steer_en.sv
+!i122 37
+L0 1 65
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/steer_en.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/steer_en.sv|
+!i113 0
+R8
+R9
+R2
+vsteer_en_SM
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/steer_en_SM.sv
+R3
+R4
+!i10b 1
+!s100 4leSLY[Wijbm@On>07i152
+IfTEo7[aGYXjW=WcEO[cgl3
+S1
+R5
+w1764022087
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/steer_en_SM.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/steer_en_SM.sv
+!i122 38
+L0 4 85
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/steer_en_SM.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/steer_en_SM.sv|
+!i113 0
+R8
+R9
+R2
+nsteer_en_@s@m
+Xtb_tasks
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench/tb_tasks.sv
+R3
+R10
+!i10b 1
+!s100 j9WVZkDzE?J`h^JCIF^zR2
+I`Ah2AQHVkDIL8JRII_@mM1
+S1
+R5
+w1765170361
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench/tb_tasks.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench/tb_tasks.sv
+!i122 45
+L0 1 0
+V`Ah2AQHVkDIL8JRII_@mM1
+R7
+r1
+!s85 0
+31
+R19
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench/tb_tasks.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Testbench/tb_tasks.sv|
+!i113 0
+R18
+R2
+vUART_rx
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/UART_rx.sv
+R3
+R4
+!i10b 1
+!s100 AH;6PdGFjzVF4bzcl;H[62
+ITmHmlCCMh9@>kgci8XK_B1
+S1
+R5
+w1765222663
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/UART_rx.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/UART_rx.sv
+!i122 39
+L0 6 148
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/UART_rx.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/UART_rx.sv|
+!i113 0
+R8
+R9
+R2
+n@u@a@r@t_rx
+vUART_tx
+2/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/UART_tx.sv
+R3
+R4
+!i10b 1
+!s100 2=L8lR8nAfij5FAL7kWP<0
+I<RHQN:M>5FEUifjmhOFA70
+S1
+R5
+w1765223138
+8/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/UART_tx.sv
+F/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/UART_tx.sv
+!i122 40
+L0 5 133
+R6
+R7
+r1
+!s85 0
+31
+R11
+!s107 /filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/UART_tx.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-cover|sbceft3|-stats=none|/filespace/k/kannakaranko/ece551/Dec10_Final_Project_ECE551_SyntheSizers/Design/UART_tx.sv|
+!i113 0
+R8
+R9
+R2
+n@u@a@r@t_tx

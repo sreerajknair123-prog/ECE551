@@ -1,0 +1,33 @@
+# ===== ModelSim / Questa simulation artifacts =====
+work/
+transcript
+vsim.wlf
+*.wlf
+vsim_stacktrace.vstf
+*.vstf
+modelsim.ini
+*.mti
+*.mpf
+
+# ===== Synopsys Design Compiler synthesis artifacts =====
+# Generated intermediates (keep your *.dc scripts, *.vg netlists, and reports)
+*.pvl
+*.syn
+*.mr
+*.svf
+default.svf
+command.log
+cksum_dir/
+alib-52/
+
+# ===== Coverage databases (regenerable; keep the .txt/.png reports) =====
+*.ucdb
+ucdb_dir/
+cover_report/
+covhtmlreport/
+
+# ===== OS / editor cruft =====
+.DS_Store
+*~
+.vscode/
+.idea/
